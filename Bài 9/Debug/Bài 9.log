@@ -1,0 +1,15 @@
+﻿Build started 03/06/2017 20:39:09.
+     1>Project "E:\C++\Kỹ thuật lập trình\Chương 1 - NMLT\Chuong2_KhaiNiemCoBan\Bài 9\Bài 9.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\applications\VISUAL STUDIO 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Bai9.cpp
+         Bai9.cpp
+     1>e:\c++\kỹ thuật lập trình\chương 1 - nmlt\chuong2_khainiemcoban\bài 9\bai9.cpp(32): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>e:\c++\kỹ thuật lập trình\chương 1 - nmlt\chuong2_khainiemcoban\bài 9\bai9.cpp(49): warning C4717: 'main' : recursive on all control paths, function will cause runtime stack overflow
+       Link:
+         D:\applications\VISUAL STUDIO 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\C++\Kỹ thuật lập trình\Chương 1 - NMLT\Chuong2_KhaiNiemCoBan\Debug\Bài 9.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\C++\Kỹ thuật lập trình\Chương 1 - NMLT\Chuong2_KhaiNiemCoBan\Debug\Bài 9.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\C++\Kỹ thuật lập trình\Chương 1 - NMLT\Chuong2_KhaiNiemCoBan\Debug\Bài 9.lib" /MACHINE:X86 Debug\Bai9.obj
+         Bài 9.vcxproj -> E:\C++\Kỹ thuật lập trình\Chương 1 - NMLT\Chuong2_KhaiNiemCoBan\Debug\Bài 9.exe
+     1>Done Building Project "E:\C++\Kỹ thuật lập trình\Chương 1 - NMLT\Chuong2_KhaiNiemCoBan\Bài 9\Bài 9.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.91
